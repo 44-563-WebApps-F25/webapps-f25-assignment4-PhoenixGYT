@@ -1,0 +1,53 @@
+.speech, .song, .direction, .name{
+    color: black;
+}
+
+.speech{
+    font-size: 15px;
+}
+
+.song{
+    font-size: 15px;
+}
+
+.direction{
+    font-size: 8px;
+    background-color: lightblue;
+}
+
+.direction:hover{
+    background-color: darkblue;
+    color: white;
+}
+
+.name{
+    font-size: 15px;
+}
+
+.All{
+    font-family: sans-serif;
+}
+
+.Hilarion, .Florian, .Cyril{
+    font-family: "Times New Roman", serif;
+}
+
+.Hilarion{
+    color: red;
+}
+
+.Florian{
+    color: blue
+}
+
+.Cyril{
+    color: green;
+}
+
+.speech{
+    font-family: "Courier New", mono;
+}
+
+.song{
+    font-style: italic;
+}
